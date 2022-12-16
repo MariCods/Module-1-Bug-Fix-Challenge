@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-Prework-Study Guide Webpage
+
 Description
 A repo project that's been debugged for an assignment. There was a bad link, a couple of syntax errors and repeated code. I fixed the code by simplifying it and correcting some of the incorrect code. Most of the former code is commented out but still visable. 
 
